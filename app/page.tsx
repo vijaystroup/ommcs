@@ -41,7 +41,6 @@ export default function RandomPicker() {
   const [isAutoPlaying, setIsAutoPlaying] = useState(false)
   const intervalRef = useRef<NodeJS.Timeout | null>(null)
   const saveTimeoutRef = useRef<NodeJS.Timeout | null>(null)
-  const voiceInitializedRef = useRef(false)
 
   useEffect(() => {
     const savedText = localStorage.getItem("randomPickerText")
