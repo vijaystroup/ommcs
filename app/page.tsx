@@ -13,10 +13,10 @@ import { Moon, Sun } from "lucide-react"
 import { PREBUILT_LISTS } from "@/lib/prebuilt-lists"
 
 const ALLOWED_VOICES = [
+  "Aaron",
   "Samantha",
   "Google US English",
   "Martha",
-  "Aaron",
   "Arthur",
   "Daniel (English (United Kingdom))",
   "Gordon",
