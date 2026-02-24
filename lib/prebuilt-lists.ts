@@ -11,6 +11,27 @@ export const PREBUILT_LISTS: PrebuiltList[] = [
     items: [],
   },
   {
+    value: "block3cs",
+    name: "Block 3 CS",
+    items: [
+      "Neuro 1 - Brief & Expanded Mental Status Exam",
+      "Neuro 1 - cranial nerve exam",
+      "Neuro 1 - COORDINATION TESTS",
+      "Neuro 2 - reflex exams",
+      "Neuro 2 - motor exam",
+      "Neuro 2 - sensory examination",
+      "Abdominal/GI - special tests for appendicitis",
+      "Abdominal/GI - general abdominal exam",
+      "Abdominal/GI - misc special tests",
+      "MSK 1 - upper extremity exam of the shoulder",
+      "MSK 1 - upper extremity exam of the elbows, hands, wrists, fingers",
+      "MSK 1 - exam of the hip and spine",
+      "MSK 2 - general exam of the knees with special tests (McMurray test, Abduction (Valgus) stress test, Adduction (Varus) stress test)",
+      "MSK 2 - general exam of the knees with special tests (Patellofemoral grinding test, Anterior drawer sign, Lachman test, Posterior drawer sign)",
+      "MSK 2 - general exam of the ankles, feet and toes",
+    ],
+  },
+  {
     value: "block2ommsofttissue",
     name: "Block 2 OMM Soft Tissue",
     items: [
